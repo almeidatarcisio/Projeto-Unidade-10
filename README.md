@@ -17,7 +17,7 @@ O objetivo deste projeto é explorar o **UCI HAR Dataset** para identificar padr
   - seaborn
 
 ### Passos para Execução
-1. **Instale as dependências**
+1. **Instale as dependências**.
 
 2. **Baixe o Dataset**:
    O projeto utiliza o **UCI HAR Dataset**, que pode ser baixado automaticamente ao executar o código. Certifique-se de ter conexão com a internet.
